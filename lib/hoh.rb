@@ -31,6 +31,18 @@
 # }
 
 def naming_system
+naming_system_ex = {
+
+
+
+
+
+
+
+  
+}
+
+
   # Remember:
   #  Kingdom
   #  Phylum
